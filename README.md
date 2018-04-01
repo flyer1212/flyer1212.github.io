@@ -13,6 +13,15 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+# git status -s
+# git add .
+# git commit -m''
+# git push origin master
 ```
+
+
+
+
 
 For a detailed explanation of the build process, read the [docs for vue-loader](http://vuejs.github.io/vue-loader).
