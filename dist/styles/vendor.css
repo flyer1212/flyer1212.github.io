@@ -23,7 +23,7 @@
     text-decoration: none; }
   
   body {
-    background-color: #181818;
+    background-color: rgb(238, 238, 238);
     -webkit-overflow-scrolling: touch; }
   
   #mf-header {
@@ -107,6 +107,7 @@
   
   #mf-content {
     width: calc(100% - 30px);
+    background-color:#fff;
     max-width: 960px;
     margin: 84px auto 50px; }
     @media (max-width: 1280px) {
