@@ -63,7 +63,7 @@ body {
 
 #mf-header .mf-header-wrapper {
   width: calc(100% - 30px);
-  max-width: 1289px;
+  max-width: 960px;
   height: 100%;
   margin: 0 auto;
   display: -webkit-box;
