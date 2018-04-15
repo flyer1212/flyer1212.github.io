@@ -206,7 +206,10 @@ body {
   margin: 0px auto 70px; 
   border: 5px #fff;
   background-color: #39394d;
-  padding: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left:calc(100% - 96%);;
+  font-size: 14px;
   color: #fff;
 }
 
