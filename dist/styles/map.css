@@ -53,8 +53,10 @@
   font-family: "微软雅黑";
   color: #666;
   outline:none;
+  opacity:0.8;
 }
 .b_btn{
+    opacity:0.4;
     width:80px;
     height:32px; 
     border:none;
